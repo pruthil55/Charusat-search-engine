@@ -1,0 +1,25 @@
+
+
+There are sevral branches in CHARUSAT UNIVERSITY.
+There are two institutes for engineering specifically named as DEPSTAR and CSPIT.
+There are other institutes as well for different branches such as pharmacy,BBA,BCA,MBA,MCA,BSc,MSc,physiotherapy,nursing. 
+ Like this....         
+
+
+
+         	                                                     BRANCH		
+                                            ___________________________|_________________________________________________________________________
+	                                    |                          |              |              |             |                 |           |
+    					Engineering 	             Pharmacy       BBA/MBA        BCA/MCA      Physiotherapy     Nursing     BSc/MSc 
+                                ____________|__________
+                               |                       |
+                             CSPIT                  DEPSTAR 
+                               |                       |
+		Computer Engineering            Computer Engineering         
+		Information Technology          Computer Science and Engineering 
+		Civil Engineering               Information Technology
+		Mechanical Engineering
+		Electrical and comunication
+		Electrical Engineering 
+
+

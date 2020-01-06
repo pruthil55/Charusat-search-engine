@@ -1,0 +1,32 @@
+
+			        		   ACADEMIC SYSTEM
+
+1) Academic Year: Bachelor of Technology (B.Tech) is the 4-year Course shall be divided into 8 independent semesters    with two semesters (One Odd + One Even) in one academic year. 
+ 
+2) Semester: Shall constitute of 26 weeks. Each semester shall have minimum 90 days of directclass room teaching,tutorials, counseling, project work and self-learning. 
+ 
+3) Programme: An educational programme leading to award of a Degree, Diploma or Certificate. 
+ 
+4) Course:Course is a subject in a given semester of a particular programme with given credits andteaching plan leading to an examination. 
+ 
+5) Choice Based Credit System (CBCS): The CBCS provides choice for students to select from the prescribed courses (core, elective or minor or soft skill courses).  
+ 
+6) Credit Based Semester System (CBSS): Under the CBSS, the requirement for awarding a degree or diploma or certificate is prescribed in terms of number of credits to be completed by the students.  
+ 
+7) Credit:means a unit by which the coursework is measured. As a general guideline, one credit means one hour of class room teaching or minimum one and half to two hours of practical work per week. 
+ 
+8) Grade Point: It is a numerical weight allotted to each letter grade on a 10-point scale. 
+ 
+9) Credit Point: It is the product of grade point and number of credits for a course. 
+ 
+10) Letter Grade:Is a parameter to indicate the performance of a student in a particular course. 
+ 
+11) Percentage: The result obtained by multiplying a quantity by a percent. Or proportion or rate per hundred parts.The percent value is computed by multiplying the numeric value of the ratio by 100. 
+ 
+12) Semester Grade Point Average (SGPA): Itrefers to the performance of a student in a given semester. SGPA is ratio of the ‘sum of all the products of credit points and grade point earned by the student in all courses of the semester’ and the ‘total number of credits of all subjects offered in that semester’. 
+ 
+13) Cumulative Grade Point Average (CGPA): It refers to the performance of the student in allcompleted semesters and is equal to Cumulative Grade Point Weighted Average. 
+ 
+14) Transcript:A transcript issued to the student at the time of leaving the university will contain a consolidated record of all the courses taken by him / her, grades obtained and the final CGPA.  
+
+

@@ -1,0 +1,48 @@
+					          _______
+						  | LAB	|
+						  *******	
+	
+iOS Apple Lab
+*************
+
+The goal of creating an Apple lab is to add one more programming language into the students’ dictionary. All systems are highly configured with each system having 8GB RAM. The screens are wide and embedded with all the required sensors. Mouse and Keyboard are wireless. The students and faculties can explore the xCode IDE and do research of their interest in the high-end systems in the lab.
+
+Sophos Network Security Lab
+***************************
+
+IMG_20180222_160939Network Security deals with the study of robustness of any network, the capabilities of the network to detect an intrusion and prevent network failure. In Sophos network security lab, we have systems that have tools to learn and practice current techniques for attacking and defending against network attacks or cyber attacks. The Sophos lab is equipped with a high end HP server system which enables virtualization of machines to facilitate Network attacking and defending and with firewalls which enables a student to learn and implement network security in depth.
+
+Virtual Reality Lab
+*******************
+
+VR LabThe VR Lab brings students together in a shared workspace which enables them to share and learn knowledge about Virtual Reality by utilizing the hardware provided by the lab. The college strives to provide the opportunity to engage with an immersive VR environment and develop applications for the future. Besides our own faculties, we bring in experts from industry and other academic institutes to conduct workshops related to VR technology.
+
+Data Analytics, Cloud Computing, IOT and Artificial Intelligence Labs
+*********************************************************************
+
+We have separate labs for studying and practicing different sub branches of computer science, engineering and IT. In the Data Analytics lab, students can work on Big Data and how to mine useful knowledge from large amounts of information. The Cloud Computing and IOT labs help students practically understand the concepts that are going to revolutionize how every single one of us is going to interact with the world around us in the future. AI and the fields of study mentioned above are going to be the core areas of research in the future and our students can stay ahead of the mass with the resources available in these labs.
+
+Pearson Vue Exam Centre
+***********************
+
+The multimedia hall is equipped with computer and LCD projector. The hall is designed for the purpose of teachers’ training, classroom teaching and students’ presentations.
+
+Laboratories
+************
+
+There are more than 15 state-of-the-art computer laboratories in the CE/IT departments. They are well-equipped with desktop computers with latest configurations and software. The lab computers and software have been procured keeping in view the educational requirements and the industry trends. All the labs are equipped with IBM, DELL and HP computers.
+
+MM Hall [Multimedia Hall]
+*************************
+
+The multimedia hall is equipped with computer and LCD projector. The hall is designed for the purpose of teachers’ training, classroom teaching and students’ presentations.
+
+Internet Lab
+************
+
+The college’s Internet labs are equipped with the latest software for the students. The labs are equipped with the branded computers with latest configurations.
+
+Server Room
+***********
+
+The computer network of CHARUSAT is controlled from the server room of the CSPIT. The server room is equipped with IBM Blade Server with latest configurations. A network software “Cyberoam” is used to control the Internet usage on the campus.

@@ -1,0 +1,8 @@
+
+				Bank,Post &ATM 
+ 
+ --->There are facilities of banking and post in campus.
+ --->It is located in the central administrative building, and -ATM facility is just near to campus. 
+ --->There is 2 ATM are available.
+ --->Here axis bank ATM available and it is lacated in Admin Building.
+ --->And other ATM is located at charusat 2nd gate.

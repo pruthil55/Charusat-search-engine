@@ -1,0 +1,33 @@
+Faculty of Depstar
+	:--> Principal : Dr.Amit Ganatra
+	:--> Assistant Professor : Krishna Patel
+				 : Radhika Patel
+				 : Parth Goel
+				 : Dweepna Garg
+				 : Mitali Dave
+				 : Shraddha Vyas
+				 : Phenil Buch
+				 : Khushi Patel
+				 : Atufali Saiyad
+				 : Michele Mistry
+	                         : Rima Pitroda
+			         : Mohammad Bohra
+				 : Hardik Jaiswal
+
+Faculty of CSPIT
+	:--> Principal: Dr.A.D.Patel
+  	:--> Professor: Dr.Amit Ganatra
+        :--> Assistant Professor : Kruti Dhyani
+				 : Mayuri Popat
+				 : Ritesh Patel
+				 : Ashwin Makavana
+				 : Vaishali Mevada
+				 : Chintan Bhatt
+				 : Devyani Panchal
+				 : Trusha Patel
+				 : Khooshboo Patel
+           			 : Dipsi Dave
+      				 : Padmavathi Bindulal
+				 : Aniruddhkumar Fataniya
+				 : Sneha Padhiar
+				  		 
