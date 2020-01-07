@@ -6,3 +6,5 @@
  --->There is 2 ATM are available.
  --->Here axis bank ATM available and it is lacated in Admin Building.
  --->And other ATM is located at charusat 2nd gate.
+ --->And other ATM is located at charusat 2nd gate you can find.
+ 
