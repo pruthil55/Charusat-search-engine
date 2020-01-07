@@ -1,2 +1,5 @@
 # Charusat-search-engine
-Basically this project is done in c++ using file input-output.From this application you can able to view almost all details about charusat university like fees structure of all department,campus related information,faculties information etc...
+
+CHARUSAT Search Engine
+The following project is executed in C++ with the help of traditional File-Handling System and Object Oriented Concepts.
+This Application is aimed to provide the User all the necessary details about Charusat University from Fee Structure to Campus Related information.
